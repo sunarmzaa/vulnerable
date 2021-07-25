@@ -1,0 +1,66 @@
+ Database: pier
+
+ Table: info
+ +-----+---
+ | No. | Attribute Name 
+ +-----+---
+ | 01  | info_id
+ +-----+---
+ | 02  | shipname
+ +-----+---
+ | captain
++---
+| captain_mobile
++---
+| departure
++---
+| departure_date
++---
+| departure_time
++---
+| arrival
++---
+| crew
++---
+| passenger
++---
+| guide
++---
+| guide_mobile
++---
+| created
++---
+| createdon
++---
+| approved
++---
+| approvedon
++---
+| status
++---
+
+Table: admin
++---
+| admin_id
++---
+| email
++---
+| password
++---
+| fullname
++---
+| position
++---
+| organization
++---
+| mobile
++---
+| level
++---
+| status
++---
+
+Table: pier
++---
+| pier_id
++---

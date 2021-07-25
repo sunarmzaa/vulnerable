@@ -1,0 +1,31 @@
+ |
+ +-index.php
+ +-register.php
+ +-forgot_password.php
+ +-reset_password.php
+ +-<Authen>-+-(user)dashboard.php
+ |			+-info_manage.php
+ |			+-info_form.php
+ |			+-profile.php
+ |			+-change_password.php
+ |			+-logout.php
+ |	
+ +-<Authen>-+-(Admin)dashboard.php
+ |			+-user_manage.php
+ |			+-user_form.php
+ |			+-info_manage.php
+ |			+-info_form.php
+ |			+-profile.php
+ |			+-change_password.php
+ |			+-logout.php
+ |
+ +-<Authen>-+-(Authorized)dashboard.php
+ 			+-admin_manage.php
+ 			+-admin_form.php
+ 			+-user_manage.php
+ 			+-user_form.php
+ 			+-info_manage.php
+ 			+-info_form.php
+ 			+-profile.php
+ 			+-change_password.php
+ 			+-logout.php
